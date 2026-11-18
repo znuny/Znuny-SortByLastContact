@@ -29,7 +29,7 @@ Many thanks to MyHammer AG which made this possible.
 
 **Prerequisites**
 
-- Znuny 7.3
+- Znuny 7.5
 
 **Installation**
 
